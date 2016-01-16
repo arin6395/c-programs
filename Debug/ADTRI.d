@@ -1,0 +1,1 @@
+ADTRI.d: ../ADTRI.cpp

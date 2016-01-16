@@ -1,0 +1,1 @@
+SEAKAM.d: ../SEAKAM.cpp

@@ -1,0 +1,38 @@
+!SESSION 2015-11-07 19:47:41.165 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_85
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/arindam/Arindam/programming/codechef -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.salesforce.ide.core 2 0 2015-11-07 19:50:24.289
+!MESSAGE  WARN [2015-11-07 19:50:24,279] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-11-07 19:50:24.290
+!MESSAGE  WARN [2015-11-07 19:50:24,290] (DescribeObjectRegistry.java:clearCache:661) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-11-07 19:50:24.291
+!MESSAGE  WARN [2015-11-07 19:50:24,290] (MetadataFactory.java:clearCache:126) - No cached metadata stubs
+
+!SESSION 2015-12-04 23:57:22.884 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_85
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/arindam/Arindam/programming/codechef -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.salesforce.ide.core 2 0 2015-12-04 23:58:59.905
+!MESSAGE  WARN [2015-12-04 23:58:59,804] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-12-04 23:59:00.033
+!MESSAGE  WARN [2015-12-04 23:59:00,033] (DescribeObjectRegistry.java:clearCache:661) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-12-04 23:59:00.034
+!MESSAGE  WARN [2015-12-04 23:59:00,033] (MetadataFactory.java:clearCache:126) - No cached metadata stubs
+

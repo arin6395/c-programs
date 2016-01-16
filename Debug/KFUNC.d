@@ -1,0 +1,1 @@
+KFUNC.d: ../KFUNC.cpp

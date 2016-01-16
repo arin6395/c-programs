@@ -1,0 +1,1 @@
+ORACLCS.d: ../ORACLCS.cpp

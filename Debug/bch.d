@@ -1,0 +1,1 @@
+bch.d: ../bch.cpp

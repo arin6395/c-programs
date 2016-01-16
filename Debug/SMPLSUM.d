@@ -1,0 +1,1 @@
+SMPLSUM.d: ../SMPLSUM.cpp
