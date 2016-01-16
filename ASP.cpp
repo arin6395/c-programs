@@ -3,7 +3,7 @@
  *
  *  Created on: 18-Oct-2015
  *      Author: arindam
-
+ */
 #include<iostream>
 #include<string.h>
 #include<stdlib.h>
@@ -73,5 +73,5 @@ int main()
 	return 0;
 }
 
-*/
+
 
